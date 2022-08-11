@@ -1,5 +1,6 @@
 # CourseFinder
-캡스톤디자인 Team 다형성 
+캡스톤디자인 Team 다형성
+contributor 확인 - 기범
 
 ## 다형성 Developers
 - 정기범(201512244)
